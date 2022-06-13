@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_alt",
+  "version": "1.0.0",
+  "description": "mi vidaaaaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munilla1/proyecto_alt.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/munilla1/proyecto_alt/issues"
+  },
+  "homepage": "https://github.com/munilla1/proyecto_alt#readme"
+}
